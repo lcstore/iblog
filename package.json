@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/lcstore/iblog#readme",
   "dependencies": {
+    "express": "^4.16.2",
     "serve-static": "^1.13.2"
   }
 }
